@@ -1,0 +1,46 @@
+[
+{
+"university": "Massachusetts Institute of Technology",
+"country": "United States",
+"deadline": "EA: Nov 1, 2025; RA: Jan 5, 2026",
+"english_test": "Strongly recommended (no specific test/minimum)",
+"min_score": "N/A",
+"app_fee_usd": 75,
+"notable_requirement": "Two teacher recommendations: one math/science, one humanities/social science/language",
+"source_url": "mitadmissions.org/apply/process/dates",
+"verified": false
+},
+{
+"university": "Stanford University",
+"country": "United States",
+"deadline": "REA: Nov 1, 2025; RD: Jan 5, 2026",
+"english_test": "TOEFL, IELTS, or Duolingo optional",
+"min_score": "N/A",
+"app_fee_usd": 90,
+"notable_requirement": "Restrictive Early Action (REA): cannot apply early to other private universities",
+"source_url": "admission.stanford.edu/apply/dates",
+"verified": false
+},
+{
+"university": "University of Oxford",
+"country": "United Kingdom",
+"deadline": "Oct 15, 2025, 6 PM UK time",
+"english_test": "IELTS, TOEFL iBT, PTE, C1 Advanced",
+"min_score": "IELTS 7.5 (min 7.0/component); TOEFL 110 (L:22, R:24, S:25, W:24); PTE 76; C1 Advanced 191",
+"app_fee_usd": 0,
+"notable_requirement": "Course-specific admissions tests (e.g., ESAT, TMUA, TARA) sat in October",
+"source_url": "ox.ac.uk/admissions/undergraduate/applying-to-oxford/ucas",
+"verified": true
+},
+{
+"university": "University of Edinburgh",
+"country": "United Kingdom",
+"deadline": "Jan 14, 2026 (most courses); Oct 15, 2025 (Medicine)",
+"english_test": "IELTS, TOEFL iBT, C1 Advanced",
+"min_score": "Varies by program (Standard: IELTS 6.5, TOEFL 92, C1 176)",
+"app_fee_usd": 32,
+"notable_requirement": "Standard UCAS process; contextual/widening access offers available",
+"source_url": "ed.ac.uk/studying/undergraduate/applying",
+"verified": false
+}
+]
