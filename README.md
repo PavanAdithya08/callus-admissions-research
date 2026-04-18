@@ -94,7 +94,7 @@ The Perplexity result for Edinburgh cited `cahss.ed.ac.uk` — the College of Ar
 
 Edinburgh sets English language requirements at the course level, not university-wide. The IELTS 6.5 figure from CAHSS is real — it applies to humanities programs. But a student applying for Medicine, Engineering, or Law would need to meet a higher threshold, typically IELTS 7.0 or above. Using the CAHSS figure as a proxy for a Science or Medical application could lead someone to prepare for the wrong score.
 
-The fix is simple: use `ed.ac.uk/studying/undergraduate`, find the specific program, and read the English requirements on that page. The table now reflects that there's no universal figure, and points to the course-level pages.
+The fix is simple: use `study.ed.ac.uk/undergraduate`, find the specific program in `study.ed.ac.uk/programmes/undergraduate-subjects`, and read the English requirements on that page. The table now reflects that there's no universal figure, and points to the course-level pages.
 
 **Bonus: Stanford application fee**
 
